@@ -1,6 +1,6 @@
 This is a Safari extension that hides all deleted answers on <http://stackoverflow.com>.
 
-When installed, it adds a custom stylesheet for `stackoverflow.com` with this content:
+When installed, it adds a custom stylesheet for `stackoverflow.com` and `meta.stackoverflow.com` with this content:
 
     div.deleted-answer {
         display: none !important;
