@@ -6,7 +6,7 @@ When installed, it adds a custom stylesheet with this content:
         display: none !important;
     }
 
-You can install the extension by double-clicking the [HideStackOverflowDeletedAnswers.safariextz](HideStackOverflowDeletedAnswers.safariextz) file.
+You can install the extension by double-clicking the [HideStackOverflowDeletedAnswers.safariextz](https://github.com/kristopherjohnson/HideStackOverflowDeletedAnswers/raw/master/HideStackOverflowDeletedAnswers.safariextz) file.
 
-The source is available here so that you can further customize the CSS or include additional Stack Exchange websites.
+The source is available here so that you can further customize the CSS or include additional Stack Exchange websites.  The extension can be opened and edited with Safari's [Extension Builder](https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html).
 
